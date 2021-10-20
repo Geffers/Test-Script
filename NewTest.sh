@@ -1,6 +1,7 @@
 #!/bin/bash
 # Local executable uploaded
 
+set -e
 clear
 echo "This will check apt update and apt upgrade"
 sleep 10s
